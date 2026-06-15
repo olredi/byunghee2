@@ -1,9 +1,9 @@
 {
-  "latestVersion": "",
+  "latestVersion": "1.0.0",
   "forceUpdate": false,
-  "noticeTitle": "1234",
-  "noticeBody": "테스트",
-  "noticeId": "2026-06-15",
+  "noticeTitle": "화물인생장부 업데이트",
+  "noticeBody": "전자세금계산서 XML 자동입력 기능이 추가되었습니다.",
+  "noticeId": "2026-06-16",
   "maintenance": false,
   "maintenanceBody": ""
 }
