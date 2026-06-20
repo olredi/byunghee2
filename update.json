@@ -1,6 +1,7 @@
 {
   "versionCode": 21,
   "versionName": "1.1.0",
+  "important": false,
   "notes": [
     "Google 로그인 도입 (기기 변경해도 데이터 유지)",
     "커뮤니티 게시판 추가",
